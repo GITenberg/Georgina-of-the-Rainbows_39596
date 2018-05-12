@@ -20,6 +20,8 @@ description: Classic children's book by the American author, most well-known for
   characters on friends and family, many of whom appear in several different series.
   Her semi-biographical characters include The Old Colonel, Mom Beck, Papa Jack, Mrs
   Sherman, Aunt Allison, and the Waltons.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39596#Georgina-of-the-Rainbows
 gutenberg_issued: '2012-05-02'
 gutenberg_type: Text
 identifiers:
